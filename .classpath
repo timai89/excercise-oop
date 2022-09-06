@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="exercise_oop_account"/>
+	<classpathentry kind="src" path="exercise_oop_composition_book_author/src"/>
+	<classpathentry kind="src" path="exercise_oop_composition_student_address/src"/>
+	<classpathentry kind="src" path="exercise_oop_date/src"/>
+	<classpathentry kind="src" path="exercise_oop_employee/src"/>
+	<classpathentry kind="src" path="exercise_oop_inheritance_circle_cylinder/src"/>
+	<classpathentry kind="src" path="exercise_oop_inheritance_person_student_staff/src"/>
+	<classpathentry kind="src" path="exercise_oop_polymorphism_interface_moveable/src"/>
+	<classpathentry kind="src" path="exercise_polymorphism"/>
+	<classpathentry kind="src" path="exerciseoop_class-object_cricle/src"/>
+	<classpathentry kind="src" path="exerciseoop_class-object_rectangle/src"/>
+	<classpathentry kind="src" path="oop_employee_management/src"/>
+	<classpathentry kind="src" path="oop-b14/src"/>
+	<classpathentry kind="src" path="synthetic_exercise_oop_java/src"/>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

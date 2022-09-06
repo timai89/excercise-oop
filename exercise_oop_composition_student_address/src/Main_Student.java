@@ -1,4 +1,4 @@
-public class Main {
+public class Main_Student {
 
     public static void main(String[] args) {
         Address address = new Address("VN", "HCM", "Q7", "428 LE VAN LUONG");

@@ -1,4 +1,4 @@
-public class Main {
+public class Main_Employee {
 
     public static void main(String[] args) {
         Employee employee = new Employee(1, "Nguyen", "Sin", 10000000);

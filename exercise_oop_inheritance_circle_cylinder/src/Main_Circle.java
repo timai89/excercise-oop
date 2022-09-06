@@ -1,4 +1,4 @@
-public class Main {
+public class Main_Circle {
 
     public static void main(String[] args) {
         Circle cylinder = new Cylinder(2.4, "red", 10);

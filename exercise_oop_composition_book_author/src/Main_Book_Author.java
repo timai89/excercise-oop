@@ -1,4 +1,4 @@
-public class Main {
+public class Main_Book_Author {
 
     public static void main(String[] args) {
         Author author = new Author("shareprogramming.net", "nthanhhai2909@gmail.com", "male", 23);
